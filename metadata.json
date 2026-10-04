@@ -1,0 +1,7 @@
+{
+  "name": "shmscheem - Pakistani Govt Schemes Portal & Blogger Theme Fixer",
+  "description": "Pakistani government schemes (BISP 8171, Ehsaas, Sehat Card, Punjab Schemes) portal with live scheme checks, rich guides, and a tested Blogger XML theme fixer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
